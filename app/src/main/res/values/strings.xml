@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login via social site</string>
+    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="fb_login_protocol_scheme">fb_facebook_app_id</string>
+</resources>
